@@ -1,3 +1,3 @@
-# .github
+# Pimponetis
 
-Official page for Pinponetis, a small team of Computer Engineers from the University of Alicante, Spain
+Official page for Pimponetis, a small team of Computer Engineers from the University of Alicante, Spain
